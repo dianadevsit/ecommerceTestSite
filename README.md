@@ -1,2 +1,2 @@
-# ecommerceTestSite
-Implementing SDK and GTM on this 
+# ecommerce-test-site
+Implementing SDK and GTM 
